@@ -1,0 +1,17 @@
+*.git
+*.class
+*.classpath
+*.project
+*.setting
+*.settings
+*.metadata
+*.cache
+*.data
+*.datas
+*.log
+*.log.*
+*target
+*.db
+*.ck
+.idea
+*.jar
