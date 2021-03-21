@@ -17,9 +17,9 @@ Setup et configuration
 * Installation de truffle : **sudo apt install truffle**
 * Installation de openzeppelin : **npm install openzeppelin-solidity**
 * Compilation et deploiement du SC : https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin#compiling-and-deploying-the-smart-contract
-* Création de l'environement : mkdir DANI2 && cd DANI2
+* Création de l'environement : mkdir DANOU && cd DANOU
 * Initialisation : truffle init
-* Création du smart contract DANI Token : touch contracts/DANI2.sol
+* Création du smart contract DANI Token : touch contracts/DANOU.sol
 * Modification du deploy contract et migration vers ganache : https://www.trufflesuite.com/tutorials/robust-smart-contracts-with-openzeppelin#compiling-and-deploying-the-smart-contract
 * Modification du trufflue-config : https://www.trufflesuite.com/tutorials/using-infura-custom-provider
 
